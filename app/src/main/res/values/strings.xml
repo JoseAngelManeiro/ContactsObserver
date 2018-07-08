@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="delete">Borrar</string>
+    <string name="add">Añadir</string>
+    <string name="name">Nombre</string>
+    <string name="phone">Teléfono</string>
+</resources>
